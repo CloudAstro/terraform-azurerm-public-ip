@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-azurerm-public-ip/compare/v1.0.0...v1.1.0) (2026-06-18)
+
+
+### Features
+
+* bump tf and provider version ([6fa38a4](https://github.com/CloudAstro/terraform-azurerm-public-ip/commit/6fa38a442b4e98ec0553c4d7e3f9a6acf0c15f53))
+
 ## 1.0.0 (2025-06-04)
 
 
